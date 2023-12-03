@@ -1,4 +1,4 @@
-# Home Assistant Add-ons by GauthamVarmaK
+# Home Assistant Add-ons by 7wells, ported from GauthamVarmaK
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
@@ -13,7 +13,7 @@ providing extra Home Assistant add-ons for your installation.
 
 The primary goal of this project is to provide you (as a Home Assistant user)
 with additional, high quality, add-ons that allow you to take your automated
-home to the next level, developed by [GauthamVarmaK][gautham].
+home to the next level, developed by [7wells], who ported original from [GauthamVarmaK][gautham].
 
 This has been possible thanks to the community add-ons initiative by [Frenck]
 
@@ -25,7 +25,7 @@ Adding this add-ons repository to your Home Assistant instance is pretty easy. I
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/GauthamVarmaK/hassio-addons
+https://github.com/7wells/hassio-addons
 ```
 
 [![Opens your Home Assistant instance and show the add add-on repository dialog with the repository URL pre-filled](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)][my-ha-add-repo]
