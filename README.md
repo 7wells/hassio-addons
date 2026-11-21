@@ -3,6 +3,8 @@
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
+[![Privacy Check](https://github.com/7wells/hassio-addons/actions/workflows/privacy-check.yml/badge.svg?branch=main)](https://github.com/7wells/hassio-addons/actions/workflows/privacy-check.yml)
+
 
 
 ## About
